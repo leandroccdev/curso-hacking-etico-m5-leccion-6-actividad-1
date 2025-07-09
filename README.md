@@ -18,6 +18,12 @@ pentesting.​
 4. Asegúrate de ejecutar este ejercicio únicamente en redes de laboratorio o con
 autorización expresa.​
 
+### Instalación de nmap
+- Ubuntu: sudo apt-get update && sudo apt-get install -y nmap
+- Arch: sudo pacman -Sy nmap
+- Windows: [descarga](https://nmap.org/download#windows)
+- Mac OSX: [instalación](https://nmap.org/book/inst-macosx.html)
+
 ### Creación del ambiente
 - Creación: `python3 -m venv .venv`
 - Activación: `source .venv/bin/activate`
